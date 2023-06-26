@@ -1,4 +1,4 @@
-### :woman_technologist: About Me :
+### :woman_technologist: Обо мне:
 Всем привет! Я начинающий веб-разрабочик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: Стараюсь писать чистый, лаконичный код, понятный всем.
 - :seedling: Работаю над оптимизацией своих сайтов.
