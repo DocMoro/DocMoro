@@ -1,10 +1,8 @@
 ### :woman_technologist: About Me :
-Я Full Stack разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: тут что-то написать..
-
-- :seedling: и туту что-то написать..
-
-- :zap: и тут тоже.
+Всем привет! Я начинающий веб-разрабочик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: Стараюсь писать чистый, лаконичный код, понятный всем.
+- :seedling: Работаю над оптимизацией своих сайтов.
+- :zap: Мне интересно, как устроена совместная работа в больших командах.
 
 ---
 
