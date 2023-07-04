@@ -1,4 +1,4 @@
-### :woman_technologist: Обо мне: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### Обо мне: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: Стараюсь писать чистый, лаконичный код, понятный всем.
 - :seedling: Работаю над оптимизацией своих сайтов.
 - :zap: Мне интересно, как устроена совместная работа в больших командах.
